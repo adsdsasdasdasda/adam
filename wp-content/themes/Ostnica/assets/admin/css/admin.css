@@ -1,0 +1,36 @@
+
+.row{
+  background-color: #fff;
+}
+.cd_calendar label{
+	padding: 0 8px;
+	line-height: 2;
+	min-height: 30px;
+	box-shadow: 0 0 0 transparent;
+	border-radius: 4px;
+	border: 1px solid #7e8993;
+	background-color: #fff;
+	color: #32373c;
+	display: inline-block;
+	margin: 6px;
+}
+#display_save\9 {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+/*Deepak*/
+.cd_availability_table{
+    width: 100%;
+    border: 1px solid gray;
+}
+#availability {
+    overflow: scroll;
+}
+
+.cd_remove_slot{
+	cursor: pointer;
+}
+.cd-testimonial-input-01, .cd-testimonial-input-02, .cd-testimonial-input-03{
+    margin: 10px 0px;
+}
